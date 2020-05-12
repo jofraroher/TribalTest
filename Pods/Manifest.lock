@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - lottie-ios (3.1.8)
+  - Nuke (8.4.1)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+  - RevealingSplashView (0.6.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - lottie-ios
+  - Nuke (~> 8.0)
+  - RealmSwift
+  - RevealingSplashView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - lottie-ios
+    - Nuke
+    - Realm
+    - RealmSwift
+    - RevealingSplashView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+
+PODFILE CHECKSUM: 972f1689baeb43912032e889380bfdc4820f266d
+
+COCOAPODS: 1.9.1

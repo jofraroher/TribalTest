@@ -1,0 +1,6 @@
+framework module Pods_com_awdevelop_tribal {
+  umbrella header "Pods-com.awdevelop.tribal-umbrella.h"
+
+  export *
+  module * { export * }
+}
